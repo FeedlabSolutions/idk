@@ -1,0 +1,2 @@
+# idk
+The thing is that i want a stationary tablet where only the screen of the tablet is showing. The program I will be needing is which of where I can collect say for example if a customer comes into the store and taps one of the four options that are on the screen. I want that tap to be registered to another analyzer where it analyzes which of the four options was tapped, and that way I can read of the analyzing chart so I know exactly how many people has pressed the different options.
